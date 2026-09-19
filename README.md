@@ -255,4 +255,8 @@ Modern University for Technology \& Information (MTI)
 GitHub: \[Yusif-Hany](https://github.com/Yusif-Hany)
 
 
+## 📸 Screenshots
 
+### Dashboard
+
+![Fitness Time CRM Dashboard](image.png)
